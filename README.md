@@ -5,12 +5,12 @@ This Github repository is associated with the following article (currently under
 > Betsy M. Martinez- Vaz, Serina L. Robinson, Troy Biernath, Caleb Rosenthal, Dean Young, Lawrence P. Wackett. "Development of the Organonitrogen Biodegradation Database:
 > Teaching Bioinformatics and Collaborative Skills to Undergraduates During a Pandemic."
 
-The learning curve for R can be steep, but it is an incredible useful skill! Here we provide a curated collection of online resources for learning R. We used a combination of these resources in our undergraduate summer research project to build the Organonitrogen Biodegradation Database web application using R and R Shiny (code provided in this repository). Due to the specialized focus on that application making the exact code unlikely to be generalizable, we provide the resources below for new users seeking to learn R for their own applications:
+The learning curve for R can be steep, but it is an incredible useful skill! Here we provide a curated collection of online resources for learning R. We used a combination of these resources in our undergraduate summer research project to build the Organonitrogen Biodegradation Database web application using R and R Shiny (code provided here). Due to the specialized focus on that application making the exact code (availble in this repository) unlikely to be generalizable, we provide the resources below for new users seeking to learn R for their own applications:
 
 #### Online courses and tutorials
-* [edX](https://www.edx.org/learn/r-programming) massive open online courses (MOOC) created by Harvard and MIT
+* [edX](https://www.edx.org/learn/r-programming) - massive open online courses (MOOC) created by Harvard and MIT
 * [Coursera](https://www.coursera.org/learn/r-programming) - Learn R programming
-* [Learning R](https://www.linkedin.com/learning/learning-r-2?replacementOf=learning-r-2013)
+* [Learning R](https://www.linkedin.com/learning/learning-r-2?replacementOf=learning-r-2013) 
 
 #### Tutorials
 * [Data Carpentry - Introduction to R](https://datacarpentry.org/R-genomics/01-intro-to-R.html)
