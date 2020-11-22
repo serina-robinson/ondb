@@ -28,12 +28,12 @@ The learning curve for R can be steep, but it is an incredible useful skill! Her
 
 ### Useful R packages for specific purposes:
 
-#### Basics
+##### Basics
 * [swirl](https://swirlstats.com/students.html)  - a package for learning R
 * [R by example](http://www.mayin.org/ajayshah/KB/R/) - small chunks of code for performing specific tasks 
 * [tidyverse](https://www.tidyverse.org/)  - for 'tidy' data manipulation in R
 
-#### Plotting
+##### Plotting
 * [ggplot2](https://ggplot2.tidyverse.org/) - for customizable graphs
 * [Plotly](https://plotly.com/r/) - interactive graphing library
 
@@ -41,7 +41,7 @@ The learning curve for R can be steep, but it is an incredible useful skill! Her
 * [ggmap](https://cran.r-project.org/web/packages/ggmap/ggmap.pdf)  - spatial visualization
 * [Leaflet](https://rstudio.github.io/leaflet/)  - interactive maps
 
-#### DNA and Protein sequence manipulation
+##### DNA and Protein sequence manipulation
 * [Biostrings](https://bioconductor.org/packages/release/bioc/html/Biostrings.html) - sequnce manipulation
 * [DECIPHER](https://www.bioconductor.org/packages/release/bioc/html/DECIPHER.html) - sequence alignment
 
@@ -49,11 +49,11 @@ The learning curve for R can be steep, but it is an incredible useful skill! Her
 * [ggtree](https://guangchuangyu.github.io/ggtree-book/chapter-ggtree.html) - manipulating phylogenetic trees
 * [ape](https://cran.r-project.org/web/packages/ape/ape.pdf) - package for phylogeny estimation
 
-#### Machine learning in R
+##### Machine learning in R
 * [caret](http://topepo.github.io/caret/index.html) - for Classification and REgression Training of predictive models
 * [tidymodels](https://www.tidymodels.org/) - a multi-package framework for modelling and machine learning
 
-#### Building interactive web applications with R
+##### Building interactive web applications with R
 * [R Shiny](https://shiny.rstudio.com/) - for building interactive web apps
 * [flexdashboard](https://rmarkdown.rstudio.com/flexdashboard/) - simplified syntax for interactive dashboards
 
