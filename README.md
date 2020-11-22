@@ -34,8 +34,8 @@ The learning curve for R can be steep, but it is an incredible useful skill! Her
 * [tidyverse](https://www.tidyverse.org/)  - for 'tidy' data manipulation in R
 
 #### Plotting
-* [ggplot2 - for customizable graphs](https://ggplot2.tidyverse.org/)
-* [Plotly - interactive graphing library](https://plotly.com/r/)
+* [ggplot2](https://ggplot2.tidyverse.org/) - for customizable graphs
+* [Plotly](https://plotly.com/r/) - interactive graphing library
 
 ##### Mapping geographic distributions
 * [ggmap](https://cran.r-project.org/web/packages/ggmap/ggmap.pdf)  - spatial visualization
