@@ -1,11 +1,15 @@
 ### Teaching resources and R code for the Organonitrogen Biodegradation Database Shiny app
 
-This Github repository is associated with the following article (currently under revision):
+This Github repository is associated with the following article recently accepted to the Journal of Microbiology and Biology Education (JMBE):
 
 > Betsy M. Martinez- Vaz, Serina L. Robinson, Troy Biernath, Caleb Rosenthal, Dean Young, Lawrence P. Wackett. "Development of the Organonitrogen Biodegradation Database:
 > Teaching Bioinformatics and Collaborative Skills to Undergraduates During a Pandemic."
 
-The learning curve for R can be steep, but it is an incredible useful skill! Here we provide a curated collection of online resources for learning R. We used a combination of these resources in our undergraduate summer research project to build the Organonitrogen Biodegradation Database web application using R and R Shiny (code provided here). Due to the specialized focus on that application making the exact code (availble in this repository) unlikely to be generalizable, we provide the resources below for new users seeking to learn R for their own applications:
+
+The learning curve for R can be steep, but it is an incredible useful skill! We used a combination of open-source tutorials and resources to teach R to undergraduates for a summer research project to build the Organonitrogen Biodegradation Database (ONDB) using R Shiny. In addition to providing code for the ONDB web application itself (see app.Rmd), we also provide a generalized [8-week tutorial](https://github.com/serina-robinson/ondb/blob/main/tutorials/ONDB_SampleTutorials.pdf) as a teaching resource for others:
+* [8-week tutorial in R](https://github.com/serina-robinson/ondb/blob/main/tutorials/ONDB_SampleTutorials.pdf)
+
+Below are some additional online resources for learning R:
 
 #### Online courses and tutorials
 * [edX](https://www.edx.org/learn/r-programming) - massive open online courses (MOOC) created by Harvard and MIT
