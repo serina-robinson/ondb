@@ -6,8 +6,7 @@ This Github repository is associated with the following article recently accepte
 > Teaching Bioinformatics and Collaborative Skills to Undergraduates During a Pandemic."
 
 The learning curve for R can be steep, but it is an incredibly useful skill. We used a combination of open-source tutorials and resources to teach R to undergraduates for a summer research project to build the Organonitrogen Biodegradation Database (ONDB) using R Shiny. In addition to providing code for the ONDB web application itself (see app.Rmd), we also provide a generalized [8-week tutorial](https://github.com/serina-robinson/ondb/blob/main/tutorials/ONDB_SampleTutorials.pdf) as a teaching resource for others:
-* [8-week tutorial in R](https://github.com/serina-robinson/ondb/blob/main/tutorials/ONDB_SampleTutorials.pdf)
-- this tutorial is included as appendix XI in the above publication.
+* [8-week tutorial in R](https://github.com/serina-robinson/ondb/blob/main/tutorials/ONDB_SampleTutorials.pdf) - this tutorial is included as appendix XI in the above publication.
 
 Below are some additional online resources for learning R:
 
